@@ -1,8 +1,6 @@
 ---
-title: Oswaldo Medina-Ramírez
-role: Political Anthropologist
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+avatar_filename: avatar.jpg
+bio: My research interests include governance, public policy, and bureaucrats
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -47,7 +45,9 @@ superuser: true
 status:
   icon: ☕️
 last_name: Wu
+role: Political Anthropologist
 highlight_name: true
+title: Oswaldo Medina-Ramírez
 first_name: Alice
 email: ""
 ---
