@@ -1,35 +1,26 @@
 ---
 avatar_filename: avatar.jpg
 bio: My research interests include governance, public policy, and bureaucrats
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: osmedina@ufl.edu
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/osmedina
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/oswaldomedina/
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: https://anthro.ufl.edu/wp-content/uploads/sites/55/Oswaldo-Medina-Ram%C3%ADrez-CV.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Florida
+    url: https://anthro.ufl.edu/2017/06/22/oswaldo-medina-ramirez/
 education:
   courses:
     - course: PhD in Artificial Intelligence
