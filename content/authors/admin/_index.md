@@ -51,6 +51,7 @@ title: Oswaldo Medina-Ramírez
 first_name: Alice
 email: ""
 ---
-
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello! I am an Interdisciplinary researcher/practitioner. Currently, I am a Ph.D. candidate in Anthropology at the University of Florida (specialization: governance and public policy). My background includes socioeconomic development & environment, sustainable development, and agricultural sciences.\
+\
+I have worked in various policy and management positions in the Ecuadorian Ministry of Agriculture and the Provincial Government of Loja-Ecuador. I have worked and conducted interdisciplinary research in several countries, including my native Ecuador (agricultural development), Costa Rica (water governance), Honduras (Feed the Future – USAID), Brazil (Programa de Municípios Sustentáveis), Bolivia (Food and Agriculture Organization of the United Nations). I hold an M.A. in Sustainable Development Practice from the University of Florida (EEUU), and a B.Sc. in Socioeconomic Development and Environment from Zamorano University (Honduras).
 {style="text-align: justify;"}
